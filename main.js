@@ -1,4 +1,4 @@
-//Phạm Văn Bảo - 2011064338
+//
 
 // //Câu 1: Tính tổng của 2 tham số truyền vào nếu truyền vào ít hơn 2 tham số  thì tham số undefined mặc định là 0
 // // Khai báo truyền thống
